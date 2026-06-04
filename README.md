@@ -1,103 +1,91 @@
-# chacolata_company_Analasis_Report
+# Chocolate Sales Analysis Dashboard
 
-# Chocolate Sales Analysis Project
+# Project Overview
 
-## Project Overview
-This project analyzes chocolate shipment and sales data using Python, SQL, and Power BI. The project focuses on identifying sales trends, top-performing products, shipment analysis, and business insights.
+This project analyzes chocolate sales and shipment data using Power BI. The dashboard provides insights into sales performance, product demand, shipment trends, and salesperson effectiveness to support business decision-making.
 
----
+# Objectives
 
-## Tools & Technologies
-- Python
-- Pandas
-- Matplotlib
-- SQL
-- Power BI
-- Excel
+* Analyze overall sales performance.
+* Track shipment quantities and trends.
+* Identify top-performing products.
+* Evaluate salesperson performance.
+* Discover regional and customer sales patterns.
+* Monitor key business KPIs.
 
----
+# Tools Used
 
-## Project Objectives
-- Analyze chocolate sales performance
-- Identify top-selling products
-- Track monthly revenue trends
-- Evaluate salesperson performance
-- Visualize shipment and sales KPIs
+* Power BI
+* Microsoft Excel
+* Power Query
+* DAX (Data Analysis Expressions)
 
----
+# Dashboard Features
 
-## Dataset Information
-The dataset contains:
-- Shipment details
-- Product information
-- Sales amount
-- Boxes shipped
-- Salesperson IDs
-- Shipment dates
+# Executive Dashboard
 
----
+* Total Sales
+* Total Boxes Shipped
+* Total Shipments
+* Average Revenue per Shipment
+* Monthly Sales Trend
 
-## SQL Analysis
-Performed SQL queries for:
-- Total revenue
-- Monthly sales trend
-- Top products
-- Salesperson performance
-- Order analysis
+# Product Analysis
 
----
+* Top Selling Products
+* Product-wise Revenue
+* Product Contribution %
+* Best and Worst Performing Products
 
-## Python Analysis
-Used Python libraries such as:
-- Pandas for data cleaning and analysis
-- Matplotlib for visualization
+# Salesperson Performance
 
-### Key Analysis:
-- Monthly sales trend
-- Product-wise sales
-- Order status analysis
-- Revenue analysis
+* Sales by Salesperson
+* Shipment Count by Salesperson
+* Revenue Contribution Analysis
+* Top Performers Ranking
 
----
+# Key Insights
 
-## Power BI Dashboard
-Created interactive dashboards including:
-- Executive Sales Overview
-- Monthly Revenue Trends
-- Top Products Analysis
-- Shipment Analysis
-- Salesperson Performance
+* Identified highest revenue-generating products.
+* Tracked monthly sales growth patterns.
+* Evaluated salesperson performance using revenue and shipment metrics.
+* Discovered shipment distribution trends across products and regions.
 
----
+# Dataset Information
 
-## Project Results
-- Identified top-performing products
-- Analyzed monthly revenue growth
-- Improved understanding of shipment patterns
-- Generated business insights using data visualization
+* Dataset: Chocolate Shipments Dataset
+* Records: Multiple shipment transactions
+* Fields include:
 
----
+  * Sales Person
+  * Product
+  * Country
+  * Date
+  * Amount
+  * Boxes Shipped
 
-## Project Screenshots
+# Skills Demonstrated
 
-### Dashboard Preview
-(Add dashboard screenshots here)
+* Data Cleaning
+* Data Modeling
+* DAX Measures
+* KPI Development
+* Data Visualization
+* Business Intelligence Reporting
 
----
+# Dashboard Preview
 
-## How to Run This Project
+(Add screenshots of your Power BI dashboards here)
 
-### Install Libraries
-```bash
-pip install pandas matplotlib numpy
-```
+# Files Included
 
-### Run Python Script
-```bash
-python sales_analysis.py
-```
+* Chocolate_Sales_Dashboard.pbix
+* Dataset.xlsx
+* Dashboard Screenshots
+* README.md
 
----
+# Author
 
-## Author
-Sai
+Venkata Sai
+
+Aspiring Data Analyst skilled in SQL, Python, Excel, and Power BI.
