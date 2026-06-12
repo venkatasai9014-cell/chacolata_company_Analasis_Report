@@ -71,11 +71,7 @@ This project analyzes chocolate sales and shipment data using Power BI. The dash
 * DAX Measures
 * KPI Development
 * Data Visualization
-* Business Intelligence Reporting
-
-# Dashboard Preview
-
-(Add screenshots of your Power BI dashboards here)
+* Business Intelligence Report
 
 # Files Included
 
